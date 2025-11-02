@@ -1,0 +1,18 @@
+Name: Mugisha Edwin
+RegNo: 24/1/340/D/300
+Paycode: 1234567890
+Tuition Paid: 3500000
+Total Tuition Paid: 3500000
+Remaining Balance: 900000
+Meal Card Eligibility: Meal Card (One Month)
+Date/Time: 2025-10-20 01:02:08
+----------------------------------
+Name: Mugisha Edwin
+RegNo: 24/1/340/D/300
+Paycode: 1234567890
+Tuition Paid: 700000
+Total Tuition Paid: 4200000
+Remaining Balance: 200000
+Meal Card Eligibility: Meal Card (One Month)
+Date/Time: 2025-10-20 01:08:58
+----------------------------------

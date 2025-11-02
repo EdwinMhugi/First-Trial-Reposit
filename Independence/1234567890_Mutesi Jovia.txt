@@ -1,0 +1,18 @@
+Name: Shilloh
+RegNo: 24/1/306/D/123
+Paycode: 24/1/306/D/78
+Tuition Paid: 800000
+Total Paid: 800000
+Remaining Balance: 200000
+Card Type: Meal Card (One Month)
+Date/Time: 2025-10-08 05:08:58
+----------------------------------
+Name: Mutesi Jovia
+RegNo: N/A
+Paycode: 1234567890
+Tuition Paid: 3600000
+Total Paid: 4400000
+Remaining Balance: 0
+Card Type: Full Payment, FULL PAY MEAL CARD, ELIGIBLE FOR AN EXAM NUMBER
+Date/Time: 2025-10-08 05:15:39
+----------------------------------

@@ -1,0 +1,18 @@
+Name: Edwin
+RegNo: 24/1/380/W/200
+Paycode: 2132435465
+Tuition Paid: 1500000
+Total Tuition Paid: 1500000
+Remaining Balance: 2900000
+Meal Card Eligibility: Tuition Average below 60%, Not Eligible for A Meal Card
+Date/Time: 2025-10-22 00:43:52
+----------------------------------
+Name: Edwin
+RegNo: N/A
+Paycode: 2132435465
+Tuition Paid: 3400000
+Total Tuition Paid: 4900000
+Remaining Balance: -500000
+Meal Card Eligibility: Full Payment, FULL PAY MEAL CARD, ELIGIBLE FOR AN EXAM NUMBER
+Date/Time: 2025-10-26 04:50:24
+----------------------------------

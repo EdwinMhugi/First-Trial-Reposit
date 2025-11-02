@@ -1,0 +1,9 @@
+Name: Alioma Franco
+RegNo: 24/1/370/D/123
+Paycode: 0987654321
+Tuition Paid: 1500000
+Total Tuition Paid: 1500000
+Remaining Balance: 2900000
+Meal Card Eligibility: Tuition Average below 60%, Not Eligible for A Meal Card
+Date/Time: 2025-10-20 01:10:07
+----------------------------------

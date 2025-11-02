@@ -1,0 +1,36 @@
+Name: Kalanzi Arnold
+RegNo: 25/2/306/DJ/200
+Paycode: 1008034169
+Tuition Paid: 3000000
+Total Tuition Paid: 3000000
+Remaining Balance: 1400000
+Meal Card Eligibility: Meal Card (One Month)
+Date/Time: 2025-10-26 07:56:35
+----------------------------------
+Name: Kalanzi Arnold
+RegNo: N/A
+Paycode: 1008034169
+Tuition Paid: 400000
+Total Tuition Paid: 3400000
+Remaining Balance: 1000000
+Meal Card Eligibility: Meal Card (One Month)
+Date/Time: 2025-10-26 08:22:47
+----------------------------------
+Name: Kalanzi Arnold
+RegNo: N/A
+Paycode: 1008034169
+Tuition Paid: 1
+Total Tuition Paid: 3400001
+Remaining Balance: 999999
+Meal Card Eligibility: Meal Card (One Month)
+Date/Time: 2025-10-26 08:44:26
+----------------------------------
+Name: Kalanzi Arnold
+RegNo: N/A
+Paycode: 1008034169
+Tuition Paid: 999999
+Total Tuition Paid: 4400000
+Remaining Balance: 0
+Meal Card Eligibility: Full Payment, FULL PAY MEAL CARD, ELIGIBLE FOR AN EXAM NUMBER
+Date/Time: 2025-10-26 08:45:31
+----------------------------------

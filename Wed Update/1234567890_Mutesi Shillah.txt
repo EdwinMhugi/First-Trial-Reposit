@@ -1,0 +1,9 @@
+Name: Mutesi Shillah
+RegNo: 24/1/350/D/001
+Paycode: 1234567890
+Tuition Paid: 1500000
+Total Paid: 1500000
+Remaining Balance: -500000
+Card Type: Full Payment (Registration Card)
+Date/Time: 2025-10-26 09:06:57
+----------------------------------

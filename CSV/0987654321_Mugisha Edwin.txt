@@ -1,0 +1,18 @@
+Name: Mugisha Edwin
+RegNo: 24/1/370/D/040
+Paycode: 0987654321
+Tuition Paid: 650000
+Total Paid: 650000
+Remaining Balance: 3750000
+Card Type: Tuition Average below 60%, Not Eligible for A Meal Card
+Date/Time: 2025-10-19 21:45:34
+----------------------------------
+Name: Mugisha Edwin
+RegNo: N/A
+Paycode: 0987654321
+Tuition Paid: 2000000
+Total Paid: 2650000
+Remaining Balance: 1750000
+Card Type: Meal Card (One Month)
+Date/Time: 2025-10-19 21:46:25
+----------------------------------
