@@ -1,14 +1,14 @@
     #include <iostream>
     #include <fstream>
     #include <string>
-    #include <regex>
+    #include <regex>//used for validating Paycode and RegNo formats.
     #include <ctime>//used it to get current local date and time when a student makes a tuition Pay.
     #include <filesystem>//used in the project to search, delete and iterate over files.
     #include <conio.h> // Used for console input/output like getch(),hashing the admin password.
     #include <limits>//Used in the project for input validation ie clearing invalid input from the input stream.
     #include <vector>//Used in the project for dynamic arrays that can grow or shrink — like storing Student payment lists of records.
     #include <sstream>// Provides string streams for string-based input/output and conversions
-    #include <iomanip>
+    #include <iomanip>// Used for manipulating input/output formatting, like setting decimal precision.
 
     // This allows easier access to filesystem functions like fs::path, fs::exists, and fs::directory_iterator
     namespace fs = std::filesystem;
