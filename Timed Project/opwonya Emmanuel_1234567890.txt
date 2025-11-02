@@ -1,9 +1,0 @@
-Name: opwonya Emmanuel
-RegNo: 24/1/306/D/089
-Paycode: 1234567890
-Tuition Paid: 600000
-Total Paid: 600000
-Remaining Balance: 400000
-Card Type: Meal Card (One Month)
-Date/Time: 2025-09-24 01:49:07
-----------------------------------
