@@ -1,9 +1,0 @@
-Name: 78
-RegNo: 31/1/230/DJ/789
-Paycode: 2132435465
-Tuition Paid: 500
-Total Tuition Paid: 500
-Remaining Balance: 4399500
-Meal Card Eligibility: Tuition Average below 60%, Not Eligible for A Meal Card
-Date/Time: 2025-10-22 01:08:53
-----------------------------------
